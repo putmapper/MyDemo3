@@ -1,4 +1,7 @@
 添加了bbb.txt文件
+<<<<<<< HEAD
 修改了bbb.txt文件
 add public void aaa();
 add public int aaa();
+=======
+>>>>>>> parent of ca7f32a... 修改了bbb.txt文件
